@@ -10,6 +10,7 @@ include 'ketnoi.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cập Nhật Sporter</title>
+    <link rel="icon" href="./IMG/logo_1.jpg" sizes="20x20" type="image/jpg" > 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./fontawesome-free-5.15.4-web/css/all.min.css">
     <link rel="stylesheet" href="./CSS/style-homeuser-2.css">
